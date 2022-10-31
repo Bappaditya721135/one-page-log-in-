@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    display: flex;
+    background-color: hsl(235, 21%, 21%);
+    height: 55px;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 0 90px;
+}
+.btn{
+    padding: 5px 15px;
+    margin: 0 5px;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
