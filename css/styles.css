@@ -57,7 +57,7 @@ form{
     padding: 20px;
     
 }
-#userName,#password{
+#userName,#password,#new-userName,#new-password{
     width: 300px;
     padding: 5px 20px;
     margin-top: 20px;
